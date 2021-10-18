@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 15:43:15
+    Author     : ahamdaoui
+
+copyrights : https://unity3d.com/fr/legal/branding_trademarks
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    background-color: lightgray;
+}
+
+.big-title{
+    font-family: 'Poppins', helvetica;
+    font-size: 75;
+    color: white;
+    background-color: grey;
+    
+    padding: 50px;
+}
+
+.menu ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
